@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f4f8; /* Light blue background color */
+}
+
+.heading {
+  color: #0366d6; /* Blue heading color */
+}
+
+.button {
+  background-color: #0366d6; /* Blue button color */
+  color: #fff; /* White text color */
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  margin-top: 20px;
+}
+
+.hidden-content {
+  display: none;
+}
